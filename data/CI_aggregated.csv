@@ -1,0 +1,130 @@
+location,countryName,regionName,carbonIntensity
+ZA,South Africa,Any,928
+CN,China,Any,555
+CN-HK,China,Hong Kong,755
+IN,India,Any,708
+ID,Indonesia,Any,761
+JP,Japan,Any,506
+KR,Korea,Any,500
+SG,Singapore,Any,418.8
+TH,Thailand,Any,497
+AU,Australia,Any,880
+NZ,New Zealand,Any,105.1
+SA,Saudi Arabia,Any,732
+TR,Turkey,Any,481
+AE,United Arab Emirates,Any,425.8
+CA,Canada,Any,130
+MX,Mexico,Any,449
+US,United States of America,Any,453.22
+AR,Argentina,Any,313
+BR,Brazil,Any,74
+AT,Austria,Any,132.86
+BE,Belgium,Any,153.13
+BG,Bulgaria,Any,437.37
+HR,Croatia,Any,273.15
+CY,Cyprus,Any,677.29
+CZ,Czech Republic,Any,544.65
+DK,Denmark,Any,154.44
+EE,Estonia,Any,723.28
+FI,Finland,Any,136.22
+FR,France,Any,38.95
+DE,Germany,Any,378.62
+GR,Greece,Any,549.01
+HU,Hungary,Any,252.98
+IS,Iceland,Any,0.11
+IE,Ireland,Any,348.04
+IT,Italy,Any,338.54
+LV,Latvia,Any,303.33
+LT,Lithuania,Any,149.13
+LU,Luxembourg,Any,139.39
+MT,Malta,Any,370.6
+NL,Netherlands,Any,452.07
+NO,Norway,Any,11.18
+PL,Poland,Any,791.07
+PT,Portugal,Any,252.55
+RO,Romania,Any,310.11
+RU,Russian Federation,Any,325
+RS,Serbia,Any,762.53
+SK,Slovakia,Any,151.1
+SI,Slovenia,Any,243.85
+ES,Spain,Any,220.26
+SE,Sweden,Any,11.89
+CH,Switzerland,Any,11.82
+GB,United Kingdom,Any,253.19
+US-AK,United States of America,Alaska,435.97
+US-AL,United States of America,Alabama,414.05
+US-AR,United States of America,Arkansas,581.39
+US-AZ,United States of America,Arizona,463.3
+US-CA,United States of America,California,201.13
+US-CO,United States of America,Colorado,653.44
+US-CT,United States of America,Connecticut,243
+US-DC,United States of America,Washington DC,209.81
+US-DE,United States of America,Delaware,429.41
+US-FL,United States of America,Florida,451.98
+US-GA,United States of America,Georgia,444.38
+US-HI,United States of America,Hawaii,729.13
+US-IA,United States of America,Iowa,513.78
+US-ID,United States of America,Idaho,76.59
+US-IL,United States of America,Illinois,390.38
+US-IN,United States of America,Indiana,833.82
+US-KS,United States of America,Kansas,475.25
+US-KY,United States of America,Kentucky,875.34
+US-LA,United States of America,Louisiana,400.26
+US-MA,United States of America,Massachusetts,349.97
+US-MD,United States of America,Maryland,401.15
+US-ME,United States of America,Maine,127.86
+US-MI,United States of America,Michigan,532.1
+US-MN,United States of America,Minnesota,478.4
+US-MO,United States of America,Missouri,816.85
+US-MS,United States of America,Mississip,438.49
+US-MT,United States of America,Montana,555.56
+US-NC,United States of America,North Carolina,383.42
+US-ND,United States of America,North Dakota,723.33
+US-NE,United States of America,Nebraska,675.98
+US-NH,United States of America,New Hampshire,145.82
+US-NJ,United States of America,New Jersey,239.47
+US-NM,United States of America,New Mexico,638.7
+US-NV,United States of America,Nevada,355.76
+US-NY,United States of America,New York,199.61
+US-OH,United States of America,Ohio,634.21
+US-OK,United States of America,Oklahoma,426.03
+US-OR,United States of America,Oregon,149.7
+US-PA,United States of America,Pennsylvania,376.21
+US-RI,United States of America,Rhode Island,414.27
+US-SC,United States of America,South Carolina,302.63
+US-SD,United States of America,South Dakota,247.96
+US-TN,United States of America,Tennessee,356.85
+US-TX,United States of America,Texas,468.98
+US-UT,United States of America,Utah,766.79
+US-VA,United States of America,Virginia,354.25
+US-VT,United States of America,Vermont,27.38
+US-WA,United States of America,Washington,95.34
+US-WI,United States of America,Wisconsin,665.83
+US-WV,United States of America,West Virginia,935.4
+US-WY,United States of America,Wyoming,983.3
+CA-AB,Canada,Alberta,680
+CA-BC,Canada,British Columbia,12.8
+CA-MT,Canada,Manitoba,1.4
+CA-NB,Canada,New Brunswick,400
+CA-NL,Canada,Newfoundland and Labrador,27
+CA-NS,Canada,Nova Scotia,760
+CA-NT,Canada,Northwest Territories,160
+CA-NU,Canada,Nunavut,890
+CA-ON,Canada,Ontario,30
+CA-PE,Canada,Prince Edward Island,14
+CA-QC,Canada,Quebec,1.7
+CA-SK,Canada,Saskatchewan,710
+CA-YT,Canada,Yukon Territory,79
+AU-ACT,Australia,Australian Capital Territory,900
+AU-NSW,Australia,New South Wales,900
+AU-NT,Australia,Northern Territory,710
+AU-NT2,Australia,Northern Territory (Darwin Katherine Interconnected System),550
+AU-QLD,Australia,Queensland,930
+AU-SA,Australia,South Australia,540
+AU-TAS,Australia,Tasmania,170
+AU-VIC,Australia,Victoria,1120
+AU-WA1,Australia,Western Australia (North Western Interconnected System),590
+AU-WA2,Australia,Western Australia (South West Interconnected System),730
+GM-BJL,"Gambia, The",Any,700
+TW,China,Taiwan,509
+IL,Israel,Any,580
