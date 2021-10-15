@@ -65,6 +65,7 @@ while ptr<10:
         "CPU": 0,
         "GPU": 1
     }
+    
     rec = {}
     rec["tdp"] = tdp
     rec["runTime"] = runTime
